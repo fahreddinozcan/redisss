@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "folders": ["src", "lib", "api", "utils"],
+  "folders": [],
   "excludeFolders": ["node_modules", "dist", "build", ".next", "coverage"],
   "excludeFiles": ["*.test.ts", "*.spec.ts", "*.config.js", "*.lock"],
   "rules": [
