@@ -1,7 +1,7 @@
 {
   "branch": "main",
   "folders": [],
-  "excludeFolders": ["node_modules", "dist"],
+  "excludeFolders": ["node_modules", "dist", "pkg"],
   "excludeFiles": ["*.test.ts", "*.spec.ts", "*.config.js", "*.lock"],
   "rules": [
     "This is an HTTP-based Redis client optimized for serverless and edge environments",
